@@ -19,3 +19,4 @@ html, body {
 }
 * { box-sizing: border-box; }
 #app { height: 100%; }
+#home video { width: 100%; }
